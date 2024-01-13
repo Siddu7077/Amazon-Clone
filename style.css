@@ -1,0 +1,373 @@
+.navbar
+{
+    margin: 0px;
+    padding: 0px;
+    height: 70px;
+}
+.logo
+{
+    position: relative;
+    left: 10px;
+}
+.logdiv:hover
+{
+    border: 1px solid white;
+    width: 150px;
+    cursor: pointer;
+}
+.in
+{
+    position:absolute;
+    top: 20px;
+    left: 123px;
+    color: aliceblue;
+    font-weight: 500;
+}
+.location
+{
+    position: absolute;
+    top: 5px;
+    left: 160px;
+}
+.location-text
+{
+    position: relative;
+    top: 24px;
+    font-size: 15px;
+    font-weight: 700;
+    left: 20px;
+    color: aliceblue;
+}
+.fa-regular
+{
+    position: absolute;
+    top: 20px;
+    color: white;
+    font-size: 20px;
+}
+.delivery
+{
+    position: relative;
+    top: -17px;
+    left: 20px;
+    font-size: 13px;
+    color: rgb(213, 197, 197);
+}
+.location:hover
+{
+    border: 1px solid white;
+    padding-right: 21px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.inputgrp
+{
+    position: relative;
+    top: -55px;
+    left: 400px;
+}
+.all
+{
+    height: 50px;
+}
+.search
+{
+    width: 50px;
+    border-radius: 3px;
+    border: none;
+    font-size: large;
+    background-color: rgb(243, 172, 40);
+}
+.inputsearch
+{
+    padding-right: 250px;
+}
+.language
+{
+    position: absolute;
+    top: 3px;
+    left: 980px;
+}
+.flag
+{
+    margin-top: 29px;
+}
+.language:hover
+{
+    border: 1px solid white;
+
+}
+.Account
+{
+    position: absolute;
+    top: 3px;
+    right: 205px;
+}
+.Account:hover
+{
+    border: 1px solid  white;
+}
+.Acc
+{
+    position: absolute;
+    top: 39px;
+}
+.hello
+{
+    color: white;
+    position: absolute;
+    top: 20px;
+    font-size: small;
+    right: 65px;
+}
+.returns
+{
+    position: absolute;
+    top: 5px;
+    right: 115px;
+    color: white;
+    padding-top: 20px;
+    width: 90px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 15px;
+    margin-bottom: 2px;
+}
+.textreturn
+{
+    margin-top: 19px;
+}
+.returns:hover
+{
+    border: 1px solid rgb(255, 255, 255);
+    padding-right: 10px;
+}
+.cart
+{
+    position: absolute;
+    top: 5px;
+    right: 20px;
+}
+.cart:hover
+{
+    border: 1px solid white;
+    width: 89px;
+}
+.basket
+{
+    margin-top: 15px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+.carttext
+{
+    color: white;
+}
+.cont2
+{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(47, 44, 58);
+    display: flex;
+    flex-direction: row;
+    color: white;    
+}
+.al
+{
+    color: white;
+}
+.alll
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    width: 70px;
+    height: 38px;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+.one
+{
+    margin: 6px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2px;
+    position: relative;
+    top: -6px;
+    padding: 4px;
+    margin-left: 0px;
+    margin-right: 2.5px;
+    color: white;
+    font-weight: 100;
+}
+.one:hover
+{
+    cursor: pointer;
+    border: 1px solid white;
+}
+.dd
+{
+    border: none;
+}
+.three
+{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 33px grey;
+    padding: 20px;
+}
+.images
+{
+    margin-top: 20px;
+}
+.text
+{
+    position: relative;
+    top: -170px;
+}
+.text-2
+{
+    position: relative;
+    top: -75px;
+}
+
+.img
+{
+    margin-bottom: 40px;
+    margin-right: 7px;
+    display: flexbox;
+}
+.two
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: relative;
+    top: -330px;
+    margin-bottom: 30px;
+}
+.one80
+{
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 0px 0px 33px grey;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.two00
+{
+    height: 230px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 0px 0px 33px grey;
+    padding: 20px;
+    z-index: -1;
+}
+.mainimg
+{
+    border-bottom:10px wheat;
+}
+footer
+{
+    height: 500px;
+    background-color: grey;
+}
+.finalcont
+{
+    height: 100px;
+    width: 100%;
+    background-color:darkgrey;
+}
+.sign
+{
+    width: 100%;
+}
+.lastimg
+{
+    float: left;
+
+}
+.ultra
+{
+    padding-top: 30px;
+}
+.para
+{
+    font-size: 10px;
+    font-weight: bold;
+}
+.price
+{
+    font-size: 18px;
+    position: absolute;
+    right: 270px;
+    top: 355px;
+    color: rgb(159, 10, 10);
+    float: left;
+    z-index: 11;
+}
+.prime
+{
+    position: relative;
+    top: -18px;
+    right: -50px;
+    z-index: 1;
+}
+.save
+{
+    font-size: 10px;
+    position: relative;
+    top: -18px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    width: 60px;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coupon
+{
+    color: black;
+    position: relative;
+    top: -53px;
+    left: 63px;
+    font-weight: 700;
+    font-size: 13px;
+}
+.N
+{
+    float: right;
+    font-size: 12px;
+    font-weight: 500;
+}
+.mm
+{
+    margin: 6px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2px;
+    position: relative;
+    top: -6px;
+    padding: 4px;
+    margin-left: 20px;
+    color: white;
+    font-weight: 100;
+}
+.mm:hover
+{
+    cursor: pointer;
+    border: 1px solid white;
+}
